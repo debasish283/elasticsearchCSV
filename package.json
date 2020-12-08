@@ -5,7 +5,7 @@
   "dependencies": {
     "bluebird": "3.4.1",
     "elasticsearch": "^16.5.0",
-    "fast-csv": "2.0.0",
+    "fast-csv": "4.3.6",
     "lodash": "4.13.1",
     "uuid": "2.0.2"
   },
